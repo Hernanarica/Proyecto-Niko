@@ -1,0 +1,12 @@
+@import "./normalize.css";
+@import "./variables.css";
+
+*,
+*:before,
+*:after {
+   box-sizing: border-box;
+}
+
+body {
+   margin: 0;
+}
