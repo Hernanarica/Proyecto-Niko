@@ -1,0 +1,20 @@
+@import "./normalize.css";
+@import "icons.css";
+
+@font-face {
+   font-family: 'Avenir';
+   src: url(../../assets/fonts/Avenir-Roman.otf);
+   font-style: normal;
+}
+
+*,
+*:before,
+*:after {
+   box-sizing: border-box;
+}
+
+body {
+   margin: 0;
+}
+
+/* Wrappers */
