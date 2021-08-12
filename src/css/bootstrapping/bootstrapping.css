@@ -11,4 +11,16 @@ body {
    margin: 0;
 }
 
+@font-face {
+   font-family: 'Avenir';
+   src: url(../../assets/fonts/Avenir-Roman.otf);
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Roman';
+   src: url(../../assets/fonts/Avenir-Roman.otf);
+   font-style: normal;
+}
+
 /* Wrappers */

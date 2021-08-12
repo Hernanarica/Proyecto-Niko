@@ -1,10 +1,10 @@
 @font-face {
    font-family: 'icomoon';
-   src: url('../../assets/fonts/icomoon.eot?f95ey5');
-   src: url('../../assets/fonts/icomoon.eot?f95ey5#iefix') format('embedded-opentype'),
-   url('../../assets/fonts/icomoon.ttf?f95ey5') format('truetype'),
-   url('../../assets/fonts/icomoon.woff?f95ey5') format('woff'),
-   url('../../assets/fonts/icomoon.svg?f95ey5#icomoon') format('svg');
+   src: url('../../assets/fonts/icomoon.eot?9jftfg');
+   src: url('../../assets/fonts/icomoon.eot?9jftfg#iefix') format('embedded-opentype'),
+   url('../../assets/fonts/icomoon.ttf?9jftfg') format('truetype'),
+   url('../../assets/fonts/icomoon.woff?9jftfg') format('woff'),
+   url('../../assets/fonts/icomoon.svg?9jftfg#icomoon') format('svg');
    font-weight: normal;
    font-style: normal;
    font-display: block;
@@ -25,7 +25,7 @@
    -moz-osx-font-smoothing: grayscale;
 }
 
-.icon__cart:before {
+.icon__search:before {
    content: "\e900";
 }
 
@@ -33,6 +33,50 @@
    content: "\e901";
 }
 
-.icon__search:before {
+.icon__cart:before {
    content: "\e902";
+}
+
+.icon__facebook .path1:before {
+   content: "\e903";
+   color: rgb(117, 117, 117);
+}
+
+.icon__facebook .path2:before {
+   content: "\e904";
+   margin-left: -1em;
+   color: rgb(17, 17, 17);
+}
+
+.icon__instagram .path1:before {
+   content: "\e905";
+   color: rgb(117, 117, 117);
+}
+
+.icon__instagram .path2:before {
+   content: "\e906";
+   margin-left: -1em;
+   color: rgb(17, 17, 17);
+}
+
+.icon__twitter .path1:before {
+   content: "\e907";
+   color: rgb(117, 117, 117);
+}
+
+.icon__twitter .path2:before {
+   content: "\e908";
+   margin-left: -1em;
+   color: rgb(17, 17, 17);
+}
+
+.icon__youtube .path1:before {
+   content: "\e909";
+   color: rgb(117, 117, 117);
+}
+
+.icon__youtube .path2:before {
+   content: "\e90a";
+   margin-left: -1em;
+   color: rgb(17, 17, 17);
 }
