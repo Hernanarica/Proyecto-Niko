@@ -1,0 +1,14 @@
+@import "./normalize.css";
+@import "icons.css";
+
+*,
+*:before,
+*:after {
+   box-sizing: border-box;
+}
+
+body {
+   margin: 0;
+}
+
+/* Wrappers */
