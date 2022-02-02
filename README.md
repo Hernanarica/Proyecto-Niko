@@ -1,24 +1,18 @@
-# Proyecto-Niko
-
-<p align="center">
-  <img src="https://github.com/Hernanarica/Proyecto-Niko/blob/main/src/assets/imgs/Thumbnail-Niko_1.jpg?raw=true" />
-</p>
+# Proyecto Niko
 
 ```js
-import JavaScriptDeveloper from 'Hernanarica';
-import JavaScriptDeveloper from 'sebaservente';
-import JavaScriptDeveloper from 'be-tho';
+import FullStackDeveloper from 'Hernanarica';
 
 class Me {
-  names     = ['Hernán Arica', 'Sebastian Servente', 'Albert Villarroel'];
-  location = 'Ciudad de Buenos Aires, Argentina';
+	name     = 'Hernán Arica';
+	title    = 'Desarrollador Full Stack';
+	company  = 'Kickads';
+	location = 'Ciudad de Buenos Aires, Argentina';
 }
 
 class Skills {
-  languages  = ['css', 'html', 'js'];
+	languages = [ 'css', 'html', 'javascript', 'react', 'tailwindcss' ];
 }
 ```
 
-⭐️ From [Hernanarica](https://github.com/Hernanarica)
-⭐️ From [sebaservente](https://github.com/sebaservente)
-⭐️ From [be-tho](https://github.com/be-tho)
+⭐️ From [HernanArica](https://github.com/Hernanarica)
